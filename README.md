@@ -44,12 +44,15 @@ B7.
 
 B8.
 1. one code, one watch: push and pull
-2. code team (pull request)
-	-	git checkout -b <branch>
-	- 	git push origin <branch> (tab)
-	-	create a pull request on Github
-	-	review code
-	-	merge to master
+2. code team (pull request: muốn branch mình merge to main)
+	1.	git checkout -b <branch>
+	2.	git push origin <branch> (tab)
+	3.	create a pull request on Github
+	4.	review code
+	5.	merge to master
+
+B9.
+
 
 git area 
 
@@ -60,3 +63,4 @@ git area
 
 terminal
 q
+git update
