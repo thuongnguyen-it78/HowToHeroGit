@@ -36,6 +36,21 @@ B5.
 2. git reset --mixed <to-commit>
 3. git reset --hard <to-commit>
 
+B6.
+1. git revert <commit>
+
+B7. 
+1. gitignore
+
+B8.
+1. one code, one watch: push and pull
+2. code team (pull request)
+	-	git checkout -b <branch>
+	- 	git push origin <branch> (tab)
+	-	create a pull request on Github
+	-	review code
+	-	merge to master
+
 git area 
 
 1. working directory
