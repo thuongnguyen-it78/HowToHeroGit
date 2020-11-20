@@ -22,6 +22,11 @@ B3.
 2. git reset <filename, .>
 3. git restore, git restore --staged <filename, .>
 
+B4. 
+1. git branch
+2. git checkout -b feature/login
+
+
 git area 
 
 1. working directory
