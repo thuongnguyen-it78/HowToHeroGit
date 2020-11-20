@@ -32,12 +32,16 @@ B4.
 3. git branch -d feature/login
 
 B5.
-1. git reset --soft
-2. git reset --mixed
-3. git reset --hard
+1. git reset --soft <to-commit>
+2. git reset --mixed <to-commit>
+3. git reset --hard <to-commit>
 
 git area 
 
 1. working directory
 2. staging area
 3. git repos
+
+
+terminal
+q
