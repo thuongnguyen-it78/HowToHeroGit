@@ -48,8 +48,11 @@ B8.
 	1.	git checkout -b <branch>
 	2.	git push origin <branch> (tab)
 	3.	create a pull request on Github
+		3.1 code -> branch -> new pull request
 	4.	review code
-	5.	merge to master
+		4.1. online
+		4.2. offline git fetch origin <branch>
+	5.	merge to master (convertions -> merge)
 
 B9.
 
