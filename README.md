@@ -25,7 +25,16 @@ B3.
 B4. 
 1. git branch
 2. git checkout -b feature/login
+3. git checkout
 
+1. git checkout master
+2. git merge feature/login
+3. git branch -d feature/login
+
+B5.
+1. git reset --soft
+2. git reset --mixed
+3. git reset --hard
 
 git area 
 
